@@ -1,0 +1,6 @@
+*.exe
+*.ilk
+*.opensdf
+*.pdb
+*.sdf
+*/ipch/*
