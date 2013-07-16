@@ -4,3 +4,5 @@
 *.pdb
 *.sdf
 */ipch/*
+*/Debug/*
+*/Release/*
